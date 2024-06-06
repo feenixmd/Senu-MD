@@ -26,7 +26,7 @@ Fork The Repo
 
 #### Session ID
 
-<a href="https://phoenix-mdsessionid-0ae5aea325e1.herokuapp.com"><img title="Senu-MD Session ID" src="https://img.shields.io/badge/GET SESSION ID-h?color=black&style=for-the-badge&logo=msi"></a>
+<a href="wait"><img title="Senu-MD Session ID" src="https://img.shields.io/badge/GET SESSION ID-h?color=black&style=for-the-badge&logo=msi"></a>
 
 ## Senu-MD Deploy Method
 
