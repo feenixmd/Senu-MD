@@ -19,7 +19,7 @@
     "SUDO": {
       "description": "Enter Numbers With Country Code Without + Separated With , To Add More Numbers",
       "required": false,
-      "value": "94722807735"
+      "value": "94757734216"
     },
     "SPAM_COUNT": {
       "description": "Enter Number Of Times To Send Spam Message Using .spam Command",
